@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My blog</title>
+    <link>/index.xml</link>
+    <description>Recent content on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
+    <lastBuildDate>Tue, 13 Dec 2016 20:35:38 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>page3</title>
+      <link>/2016/12/13/page3/</link>
+      <pubDate>Tue, 13 Dec 2016 20:35:38 +0800</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/12/13/page3/</guid>
+      <description>
+
+&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+
+&lt;p&gt;this is my text
+this is a post by daryl&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>page2</title>
+      <link>/2016/12/13/page2/</link>
+      <pubDate>Tue, 13 Dec 2016 14:29:43 +0800</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/12/13/page2/</guid>
+      <description>
+
+&lt;h1 id=&#34;headline&#34;&gt;Headline&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt quod maiores dicta beatae veniam delectus, quasi quaerat ipsa deleniti amet. Sed rem temporibus ducimus, nihil, facilis tempore ipsa minus beatae.&lt;/p&gt;
+
+&lt;p&gt;1) UPW (ultrapure water) is not caustic. Conversely,
+&lt;code&gt;in it&#39;s purest form it because acidic when exposed to atmosphere because it readily absorbs CO2&lt;/code&gt;, which converts to carbonic acid. However, by default, UPW can only have a pH of 7 (again when not exposed to air). So proper pH measurement can only be done inline or with proper buffers. We actually wrote a paper on this topic because researchers were always complaining that their water was acidic.&lt;/p&gt;
+
+&lt;p&gt;2) UPW will corrode iron, brass, poor quality steel. However, it will not corrode stainless steel as long as the welds are proper, even then hard to make SS conducive to corrosion by UPW. Example, resistivity meters that we use are made from SS (need to be to conduct electricity across 2 metal probes to get a reading).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>page1</title>
+      <link>/2016/12/13/page1/</link>
+      <pubDate>Tue, 13 Dec 2016 14:18:16 +0800</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/12/13/page1/</guid>
+      <description>&lt;p&gt;I had called upon my friend Sherlock Holmes upon the second&lt;br /&gt;
+morning after Christmas, with the intention of wishing him the&lt;br /&gt;
+compliments of the season. He was lounging upon the sofa in a purple&lt;br /&gt;
+dressing-gown, a pipe-rack within his reach upon the right, and a pile&lt;br /&gt;
+of crumpled morning papers, evidently newly studied, near at hand.&lt;br /&gt;
+Beside the couch was a wooden chair, and on the angle of the back hung&lt;br /&gt;
+a very seedy and disreputable hard-felt bat, much the worse for wear&lt;br /&gt;
+and cracked in several places. A lens and a forceps lying upon the&lt;br /&gt;
+seat of the chair suggested that the hat had been suspended in this&lt;br /&gt;
+manner for the purpose of examination.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
